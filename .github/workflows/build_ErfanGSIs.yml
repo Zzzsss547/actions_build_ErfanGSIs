@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://xiaomirom.com/download/redmi-k60-poco-f5-pro-mondrian-stable-V14.0.22.0.TMNCNXM/#china-fastboot
+  ROM_URL: https://bigota.d.miui.com/V14.0.22.0.TMNCNXM/miui_MONDRIAN_V14.0.22.0.TMNCNXM_812a3df868_13.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
