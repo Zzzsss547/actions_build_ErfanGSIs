@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://bigota.d.miui.com/V14.0.8.0.TLTCNXM/miui_MAYFLY_V14.0.8.0.TLTCNXM_48682b1e6d_13.0.zip
   ROM_NAME: Generic
-  BUILD_TYPE: ab
+  BUILD_TYPE: AB
   TZ: Asia/Shanghai
 
 jobs:
